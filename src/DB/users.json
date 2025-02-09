@@ -1,0 +1,22 @@
+{
+    "1": {
+        "id": 1,
+        "name": "admitistrator",
+        "email": "admin@email"
+    },
+    "3": {
+        "id": 3,
+        "name": "user",
+        "email": "exemple@email.com"
+    },
+    "7f5e51d3-d3c7-4621-b6e8-8fc421af3575": {
+        "id": "7f5e51d3-d3c7-4621-b6e8-8fc421af3575",
+        "name": "newTest",
+        "email": "newtest@email.test"
+    },
+    "019064c9-a0e1-47e2-9232-0c11f8d995cc": {
+        "id": "019064c9-a0e1-47e2-9232-0c11f8d995cc",
+        "name": "New User",
+        "email": "example@email.com"
+    }
+}
